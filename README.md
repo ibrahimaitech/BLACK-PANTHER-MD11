@@ -1,4 +1,9 @@
-## THIS REPO IS FOR POEOPLE WHO WANT TO DEPLOY ON. * RAILWAY AND ONLY KOYEB
+## THIS REPO IS FOR POEOPLE WHO WANT TO DEPLOY ON  RAILWAY AND  KOYEB ONLY
+
+
+
+## Steps
+* Fork the repo then go to your website eg railway, koyeb, rendor, etc then connect the this repo
                                                  
 
-[`THIS REPO IS CLOSED TAP HERE TO OPEN THE NEW ONE`](https://github.com/ibrahimaitech/IBRAHIM-MD)
+[`IF YOU WANT TO DEPLOY ON HEROKU TAP HERE YOU OPEN HEROKU REPO`](https://github.com/ibrahimaitech/IBRAHIM-MD)
