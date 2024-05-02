@@ -1,5 +1,9 @@
 while true
 do
-echo "Starting Suhail-Md!"
-node .
+echo "Starting Gifted-Md!"
+node lib/client.js
 done
+
+     
+   
+     
